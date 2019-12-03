@@ -1,9 +1,8 @@
 package reactivedemo;
 
+import challenges.solutions.JunctionBoxes;
 import com.google.common.collect.Lists;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class JunctionBoxesTest {
 

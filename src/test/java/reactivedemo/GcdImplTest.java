@@ -1,5 +1,6 @@
 package reactivedemo;
 
+import challenges.solutions.GcdImpl;
 import org.junit.Test;
 
 import java.util.stream.IntStream;

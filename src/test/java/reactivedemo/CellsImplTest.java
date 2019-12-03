@@ -1,9 +1,9 @@
 package reactivedemo;
 
+import challenges.solutions.CellsImpl;
 import org.junit.Test;
 
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 import static com.google.common.collect.Lists.newArrayList;
