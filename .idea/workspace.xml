@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f8dece-ad21-4c64-ad98-d4a7e03b9ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/CalculateSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/CatAndMouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/ElectronicsBudget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/CalculateStepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/CatAndMouseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/ElectronicsBudgetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/AddNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/PrimerNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/Employess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/EmployessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -20,55 +21,18 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/CellsImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/CustomerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/GcdImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/JunctionBoxes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/Middle$MapI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/Middle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/ReactDemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/ReactiveController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/RoundRotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/ShippingRoutes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/domain/Customer$CustomerBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reactivedemo/domain/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/CellsImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/CellsImplTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/GcdImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/GcdImplTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/JunctionBoxesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/JunctionBoxesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/MiddleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/RoundRotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/RoundRotationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/ShippingRoutesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/reactivedemo/ShippingRoutesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/reactivedemo.MiddleTest.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/reactivedemo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-reactivedemo.MiddleTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/CellsImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/GcdImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/JunctionBoxes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/RoundRotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/ShippingRoutes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/Solutions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reactivedemo/CustomerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/CustomerRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reactivedemo/ReactDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/ReactDemoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reactivedemo/ReactiveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/ReactiveController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reactivedemo/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/CellsImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/CellsImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/GcdImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/GcdImplTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/JunctionBoxesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/JunctionBoxesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/RoundRotationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/RoundRotationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/ShippingRoutesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reactivedemo/ShippingRoutesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reactivedemo/SolutionsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CalculateSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CatAndMouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CatAndMouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/challenges/solutions/CalculateStepsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenges.solutions.CatAndMouseTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.solutions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenges.solutions.CatAndMouseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/solutions/CalculateSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/CountingValleys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/challenges/solutions/CalculateStepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/CountingValleysTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -110,23 +74,36 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.489011">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CatAndMouse.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="71" selection-end-column="26" />
+                <state relative-caret-position="105">
+                  <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="475">
-                  <caret line="860" column="22" selection-start-line="860" selection-start-column="22" selection-end-line="860" selection-end-column="22" />
+                <state relative-caret-position="600">
+                  <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+                  <folding>
+                    <element signature="e#2001#2002#0" expanded="true" />
+                    <element signature="e#2033#2034#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Employess.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -134,15 +111,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/CatAndMouseTest.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
+                <state relative-caret-position="195">
+                  <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -209,6 +183,11 @@
         <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/ElectronicsBudget.java" />
         <option value="$PROJECT_DIR$/src/test/java/challenges/solutions/CatAndMouseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/CatAndMouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/CountingValleys.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/Solution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java" />
+        <option value="$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java" />
       </list>
     </option>
   </component>
@@ -223,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -270,6 +248,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -284,7 +263,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/challenges/solutions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -303,11 +282,15 @@
       <recent name="challenges.solutions" />
       <recent name="reactivedemo" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="reactivedemo" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="reactivedemo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/challenges/solutions" />
+      <recent name="$PROJECT_DIR$/src/main/java/challenges/solutions" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -327,47 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.CatAndMouseTest.catAndMouse">
-    <configuration name="CalculateStepsTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CalculateStepsTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="CalculateStepsTest.countingValleys2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CalculateStepsTest.countingValleys2&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.ShortestTest.shortest">
     <configuration name="CatAndMouseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -408,12 +351,52 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ElectronicsBudgetTest.getMoneySpent" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CountingValleysTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.ElectronicsBudgetTest.getMoneySpent&quot;" />
+        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CountingValleysTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShortestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenges.solutions.ShortestTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShortestTest.shortest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;challenges.solutions.ShortestTest.shortest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -437,11 +420,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.ShortestTest.shortest" />
+        <item itemvalue="Gradle.ShortestTest" />
+        <item itemvalue="Gradle.CountingValleysTest" />
         <item itemvalue="Gradle.CatAndMouseTest.catAndMouse" />
         <item itemvalue="Gradle.CatAndMouseTest" />
-        <item itemvalue="Gradle.ElectronicsBudgetTest.getMoneySpent" />
-        <item itemvalue="Gradle.CalculateStepsTest" />
-        <item itemvalue="Gradle.CalculateStepsTest.countingValleys2" />
       </list>
     </recent_temporary>
   </component>
@@ -477,44 +460,47 @@
       <workItem from="1573846824384" duration="361000" />
       <workItem from="1574257725434" duration="300000" />
       <workItem from="1574258190084" duration="6449000" />
-      <workItem from="1574867101121" duration="5030000" />
+      <workItem from="1574867101121" duration="7358000" />
+      <workItem from="1578782818942" duration="268000" />
+      <workItem from="1578924301360" duration="3386000" />
+      <workItem from="1579018279761" duration="375000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculateStepsTest - 2019.11.27 at 10h 39m 20s.xml">
-      <configuration name="CalculateStepsTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest - 2020.01.13 at 10h 00m 02s.xml">
+      <configuration name="ShortestTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ElectronicsBudgetTest_getMoneySpent - 2019.11.27 at 10h 55m 12s.xml">
-      <configuration name="ElectronicsBudgetTest.getMoneySpent" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 03m 26s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ElectronicsBudgetTest_getMoneySpent - 2019.11.27 at 10h 55m 44s.xml">
-      <configuration name="ElectronicsBudgetTest.getMoneySpent" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 21s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 16m 34s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 31s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 16m 57s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 32s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 17m 19s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 59s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest - 2019.11.27 at 11h 18m 44s.xml">
-      <configuration name="CatAndMouseTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 05m 50s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 24m 41s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 07m 18s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 25m 04s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 09m 11s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="CatAndMouseTest_catAndMouse - 2019.11.27 at 11h 25m 55s.xml">
-      <configuration name="CatAndMouseTest.catAndMouse" configurationId="GradleRunConfiguration" />
+    <history-entry file="ShortestTest_shortest - 2020.01.14 at 11h 15m 55s.xml">
+      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64103000" />
+    <option name="totallyTimeSpent" value="70460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
@@ -624,14 +610,14 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/challenges/solutions/CalculateSteps.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/challenges/solutions/CountingValleys.java</url>
           <line>62</line>
           <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/challenges/solutions/CatAndMouse.java</url>
-          <line>58</line>
+          <line>56</line>
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
@@ -640,6 +626,11 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>s.length()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>sorted.collect(Collectors.toList())</expression-string>
         <language-id>JAVA</language-id>
@@ -659,32 +650,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/GcdImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/RoundRotationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/JunctionBoxesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/JunctionBoxes.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -788,20 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CellsImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/GcdImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/PrimerNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -809,24 +760,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/JunctionBoxes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/RoundRotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ShippingRoutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -902,58 +839,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/VeryBigSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="33" selection-start-line="33" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/VeryBigSumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/CalculateStepsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CalculateSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ElectronicsBudget.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="n#!!doc;n#ElectronicsBudget#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/ElectronicsBudgetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -988,10 +877,124 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/VeryBigSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CountingValleys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CellsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/CatAndMouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="71" selection-end-column="26" />
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="n#!!doc;n#CatAndMouse#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/CountingValleysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ShippingRoutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/GcdImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/JunctionBoxes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/EmployessTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/ElectronicsBudgetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ElectronicsBudget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="61" column="12" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc;n#ElectronicsBudget#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <element signature="e#2001#2002#0" expanded="true" />
+            <element signature="e#2033#2034#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Employess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
         </state>
       </provider>
     </entry>
