@@ -35,11 +35,11 @@ Output Format
 
 Return the number of candles that can be blown out on a new line.
 
-Sample Input 0
+Medias Input 0
 
 4
 3 2 1 3
-Sample Output 0
+Medias Output 0
 
 2
 Explanation 0

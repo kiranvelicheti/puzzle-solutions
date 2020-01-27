@@ -35,24 +35,24 @@ Output Format
 
 Print a single integer denoting the amount of money Monica will spend. If she doesn't have enough money to buy one keyboard and one USB drive, print -1 instead.
 
-Sample Input 0
+Medias Input 0
 
 10 2 3
 3 1
 5 2 8
-Sample Output 0
+Medias Output 0
 
 9
 Explanation 0
 
 She can buy the  keyboard and the  USB drive for a total cost of .
 
-Sample Input 1
+Medias Input 1
 
 5 1 1
 4
 5
-Sample Output 1
+Medias Output 1
 
 -1
 Explanation 1

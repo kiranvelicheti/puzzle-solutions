@@ -36,10 +36,10 @@ Print a staircase of size  using # symbols and spaces.
 
 Note: The last line must have  spaces in it.
 
-Sample Input
+Medias Input
 
 6
-Sample Output
+Medias Output
 
      #
     ##

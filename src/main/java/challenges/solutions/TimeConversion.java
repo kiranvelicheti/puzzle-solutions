@@ -28,10 +28,10 @@ Output Format
 
 Convert and print the given time in 24-hour format, where 00<=h<=23.
 
-Sample Input 0
+Medias Input 0
 
 07:05:45PM
-Sample Output 0
+Medias Output 0
 
 19:05:45
 */

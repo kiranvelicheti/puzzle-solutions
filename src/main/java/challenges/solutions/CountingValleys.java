@@ -35,11 +35,11 @@ Output Format
 
 Print a single integer that denotes the number of valleys Gary walked through during his hike.
 
-Sample Input
+Medias Input
 
 8
 UDDDUDUU
-Sample Output
+Medias Output
 
 1
 Explanation

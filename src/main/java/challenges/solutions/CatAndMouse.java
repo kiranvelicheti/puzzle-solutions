@@ -30,12 +30,12 @@ Output Format
 
 For each query, return Cat A if cat  catches the mouse first, Cat B if cat  catches the mouse first, or Mouse C if the mouse escapes.
 
-Sample Input 0
+Medias Input 0
 
 2
 1 2 3
 1 3 2
-Sample Output 0
+Medias Output 0
 
 Cat B
 Mouse C
