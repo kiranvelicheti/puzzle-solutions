@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6f8dece-ad21-4c64-ad98-d4a7e03b9ab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/challenges.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/Employess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/EmployessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithmV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/datastructures/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/datastructures/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/challenges/datastructures/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/challenges/datastructures/DijkstraAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/jarAnalysis.bin" afterDir="false" />
@@ -21,18 +18,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CalculateSteps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CatAndMouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/challenges/solutions/CatAndMouse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/challenges/solutions/CalculateStepsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenges.solutions.CatAndMouseTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenges.datastructures.BFSSearchTest.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.solutions.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.solutions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenges.solutions.CatAndMouseTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.datastructures.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/challenges.datastructures.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenges.datastructures.BFSSearchTest.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/challenges/solutions/CalculateSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/challenges/solutions/CountingValleys.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/challenges/solutions/CalculateStepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/challenges/solutions/CountingValleysTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -74,36 +65,98 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.489011">
+    <splitter split-orientation="horizontal" split-proportion="0.56959707">
       <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="105">
-                  <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
-                </state>
-              </provider>
-            </entry>
-          </file>
+        <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithm.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="600">
-                  <caret line="46" column="6" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+                <state relative-caret-position="675">
+                  <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
                   <folding>
-                    <element signature="e#2001#2002#0" expanded="true" />
-                    <element signature="e#2033#2034#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/Employess.java">
+            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                <state relative-caret-position="15">
+                  <caret line="993" column="25" selection-start-line="993" selection-start-column="25" selection-end-line="993" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-378">
+                  <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/RoundRotation.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Node.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Graph.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="292">
+                  <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Vertex.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Edge.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -111,12 +164,27 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java">
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/challenges/datastructures/BFSSearchTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="195">
-                  <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+                <state relative-caret-position="480">
+                  <caret line="32" column="50" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/challenges/datastructures/DijkstraAlgorithmTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -139,15 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/ReactDemoApplication.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/domain/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/CustomerRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/GcdImpl.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reactivedemo/CellsImplTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reactivedemo/GcdImplTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/CellsImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reactivedemo/RoundRotation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/reactivedemo/RoundRotationTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/reactivedemo/JunctionBoxesTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/reactivedemo/JunctionBoxes.java" />
         <option value="$PROJECT_DIR$/src/main/java/reactivedemo/ShippingRoutes.java" />
@@ -188,6 +247,17 @@
         <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/FoodFactorySolution.java" />
         <option value="$PROJECT_DIR$/src/test/java/challenges/solutions/ShortestTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/challenges/solutions/Shortest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/Vertex.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/Graph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/Edge.java" />
+        <option value="$PROJECT_DIR$/src/test/java/challenges/datastructures/DijikistrasTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/Dijikistras.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithmV2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/challenges/datastructures/DijkstraAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/challenges/datastructures/Node.java" />
+        <option value="$USER_HOME$/.aws/credentials" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -242,6 +312,15 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="challenges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="challenges" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="challenges" type="462c0819:PsiDirectoryNode" />
               <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -279,14 +358,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="challenges.datastructures" />
       <recent name="challenges.solutions" />
-      <recent name="reactivedemo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="reactivedemo" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="challenges.datastructures" />
+      <recent name="reactivedemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/challenges/solutions" />
@@ -310,13 +391,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ShortestTest.shortest">
-    <configuration name="CatAndMouseTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+  <component name="RunManager" selected="Gradle.DijkstraAlgorithmTest">
+    <configuration name="DijikistrasTest.calShortestPath" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CatAndMouseTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;challenges.datastructures.DijikistrasTest.calShortestPath&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -331,12 +412,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CatAndMouseTest.catAndMouse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DijkstraAlgorithmTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CatAndMouseTest.catAndMouse&quot;" />
+        <option name="scriptParameters" value="--tests &quot;challenges.datastructures.DijkstraAlgorithmTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -351,12 +432,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="CountingValleysTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DijkstraAlgorithmTest.calShortestPath" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.CountingValleysTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;challenges.datastructures.DijkstraAlgorithmTest.calShortestPath&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -371,12 +452,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ShortestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="DijkstraAlgorithmTest.calShortestPath_forD" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;challenges.solutions.ShortestTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;challenges.datastructures.DijkstraAlgorithmTest.calShortestPath_forD&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -420,11 +501,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DijkstraAlgorithmTest" />
+        <item itemvalue="Gradle.DijkstraAlgorithmTest.calShortestPath_forD" />
+        <item itemvalue="Gradle.DijkstraAlgorithmTest.calShortestPath" />
+        <item itemvalue="Gradle.DijikistrasTest.calShortestPath" />
         <item itemvalue="Gradle.ShortestTest.shortest" />
-        <item itemvalue="Gradle.ShortestTest" />
-        <item itemvalue="Gradle.CountingValleysTest" />
-        <item itemvalue="Gradle.CatAndMouseTest.catAndMouse" />
-        <item itemvalue="Gradle.CatAndMouseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -468,45 +549,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShortestTest - 2020.01.13 at 10h 00m 02s.xml">
-      <configuration name="ShortestTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 29m 14s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 03m 26s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 29m 15s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 21s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 31m 48s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 31s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 36m 55s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 32s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 38m 18s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 04m 59s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 41m 53s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 05m 50s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 44m 51s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 07m 18s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 45m 35s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.13 at 10h 09m 11s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 46m 21s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="ShortestTest_shortest - 2020.01.14 at 11h 15m 55s.xml">
-      <configuration name="ShortestTest.shortest" configurationId="GradleRunConfiguration" />
+    <history-entry file="DijkstraAlgorithmTest - 2020.01.30 at 09h 47m 30s.xml">
+      <configuration name="DijkstraAlgorithmTest" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70460000" />
+    <option name="totallyTimeSpent" value="91034000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2741148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2741148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -515,16 +596,16 @@
       <window_info id="aws.explorer" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38362575" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38362575" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498779" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32865497" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.5719298" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.501221" side_tool="true" weight="0.4" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" />
@@ -621,11 +702,47 @@
           <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithm.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>path.get(path.size() - 1).getSource().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>path.get(path.size() - 1).getSource().getName().equalsIgnoreCase(edge.getDestination().getName())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>path</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>edge.getDestination().getName().equalsIgnoreCase(target.getName())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>target.getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>edge.getDestination().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>s.length()</expression-string>
         <language-id>JAVA</language-id>
@@ -642,82 +759,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>values.add(index, element)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="404" column="24" lean-forward="true" selection-start-line="404" selection-start-column="24" selection-end-line="404" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/AddNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/AddNumbers.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/Soluti.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/MultipleSolutionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/PrimerNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/CustomerRepository.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/ReactDemoApplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/PrimerNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/ReactiveController.java" />
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-151" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/RoundRotation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/ShippingRoutes.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/Solutions.java" />
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/reactivedemo/CellsImpl.java" />
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/reactivedemo/ShippingRoutesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -757,13 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/RoundRotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -918,16 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ShippingRoutes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/GcdImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -995,6 +1022,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="13" column="62" selection-start-line="13" selection-start-column="62" selection-end-line="13" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DFSTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/BFSSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/datastructures/DFSSearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="46" lean-forward="true" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Edge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="48" column="12" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DFSSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/ShippingRoutes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/solutions/RoundRotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="993" column="25" selection-start-line="993" selection-start-column="25" selection-end-line="993" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-12.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="108" column="17" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithmV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/DijkstraAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/challenges/datastructures/DijkstraAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.aws/credentials">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.aws/config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/challenges/datastructures/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
