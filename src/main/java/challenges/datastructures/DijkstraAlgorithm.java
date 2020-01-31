@@ -48,7 +48,10 @@ public class DijkstraAlgorithm {
     private List<Edge> findShortestPath(List<List<Edge>> validPaths) {
         return validPaths
                 .stream()
-                .min(comparing(list -> list.stream().map(Edge::getWeight).reduce(Integer::sum).orElse(0)))
+                .min(comparing(list -> list.stream()
+                        .map(Edge::getWeight)
+                        .reduce(Integer::sum)
+                        .orElse(0)))
                 .orElse(newArrayList());
     }
 }
